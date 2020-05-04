@@ -1,0 +1,173 @@
+#navbar{
+    border-right: 1px solid #000;
+    max-width: 300px;
+    height: 100vh;
+
+}
+* {
+    box-sizing: border-box;
+}
+nav {
+    display: block;
+    position: fixed;
+}
+
+    nav a {
+        border-top: 1px solid #000;
+        color: #000;
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+        font-size: 16px;
+        
+}
+
+   #introduction{
+       position: absolute;
+       top: 30px;
+       left: 320px;
+       font-size: 15px;
+       
+   }
+#whatyou{
+    position: absolute;
+    top: 400px;
+    left: 320px;
+    font-size: 15px;
+
+}
+#java{
+    position: absolute;
+    top: 600px;
+    left: 320px;
+    font-size: 15px;
+}
+#helloworld{
+    position: absolute;
+    top: 920px;
+    left: 320px;
+    font-size: 15px;
+}
+.div1{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218, 218, 218);
+
+}
+#Veriable{
+    position: absolute;
+    top: 1100px;
+    left: 320px;
+    font-size: 15px;
+}
+.div2{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218,218,218);
+}
+.div3{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218,218,218);
+}
+.div4{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218,218,218);
+}
+#VerableScope{
+    position: absolute;
+    top: 1670px;
+    left: 320px;
+}
+.div5{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218,218,218);
+}
+.div6{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218,218,218);
+}
+#globalveriables{
+    position: absolute;
+    top: 2020px;
+    left: 320px;
+}
+.div7{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(218,218,218);
+}
+.div8{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div9{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+#datatype{
+    position: absolute;
+    top: 2600px;
+    left: 320px;
+}
+#ifelse{
+    position: absolute;
+    top: 2970px;
+    left: 320px;
+
+}
+.div10{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div11{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div12{
+    width: 700px;
+    height: 100px;
+    background-color: rgb(218,218,218);
+}
+.div13{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div14{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div15{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div16{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div17{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+.div18{
+    width: 700px;
+    height: 50px;
+    background-color: rgb(218,218,218);
+}
+#DeclearingVeriable{
+    position: absolute;
+    top: 1500px;
+    left: 320px;
+}
